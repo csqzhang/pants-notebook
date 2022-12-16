@@ -1,1 +1,1 @@
-python_sources()
+files(sources=["*.ipynb"])

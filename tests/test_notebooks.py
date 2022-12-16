@@ -1,6 +1,6 @@
 from testbook import testbook
 from testbook.client import TestbookNotebookClient
-from notebooks import PATH_NOTEBOOKS
+from tests import PATH_NOTEBOOKS
 
 ## https://testbook.readthedocs.io/en/latest/examples/index.html
 
